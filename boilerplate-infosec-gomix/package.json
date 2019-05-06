@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "fcc backend boilerplate",
 	"main": "server.js",
-        "author": "",
+        "author": "JOEL",
 	"scripts": {
 		"start": "node myApp.js",
 	},
