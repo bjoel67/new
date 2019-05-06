@@ -3,13 +3,13 @@
 	"version": "0.0.1",
 	"description": "fcc backend boilerplate",
 	"main": "server.js",
-        "author": "Jane Doe",
+        "author": "",
 	"scripts": {
 		"start": "node myApp.js"
 	},
 	"dependencies": {
 		"express": "^4.14.0",
-                "helmet" : "^3.18.0"
+                "helmet" : ""
 	},
 	"engines": {
 		"node": "4.4.5"
